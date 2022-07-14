@@ -1,23 +1,11 @@
-#nav {
-    background-color: blue;
-}
-
-#left-column {
-    background-color: green;
-}
-
-#right-column {
-    background-color: red;
-}
-
-#footer {
-    background-color: yellow;
-}
-
 #nav, #footer {
-    height: 75px;
+    height: 10vh;
 }
 
 #left-column, #right-column {
-    height: 500px;
+    height: 80vh;
+}
+
+div {
+    text-align: center;
 }
